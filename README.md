@@ -1,8 +1,11 @@
+[![Fifteen Puzzle Game](assets/fifteen-puzzle-game.png)]
+
 ===================
 ### Rearrange the pieces in order with as fewer moves as possible.
 
 
 ### Learn more about the [Fifteen Puzzle on Wikipedia](https://en.wikipedia.org/wiki/15_puzzle)
+
 
 # Fifteen Puzzle Game
 
