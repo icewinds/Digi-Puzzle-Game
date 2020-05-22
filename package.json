@@ -1,0 +1,42 @@
+{
+  "name": "fifteen-puzzle-game",
+  "version": "1.0.0",
+  "description": "The classic Fifteen Puzzle Game made with Vanilla JavaScript.",
+  "private": true,
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/core": "^7.9.0",
+    "@babel/preset-env": "^7.9.0",
+    "autoprefixer": "^9.7.5",
+    "babel-loader": "^8.1.0",
+    "css-loader": "^1.0.1",
+    "extract-loader": "^3.1.0",
+    "file-loader": "^2.0.0",
+    "node-sass": "^4.13.1",
+    "postcss-cli": "^7.1.0",
+    "postcss-loader": "^3.0.0",
+    "sass-loader": "^7.3.1",
+    "webpack": "^4.42.1",
+    "webpack-cli": "^3.3.11"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "webpack": "node_modules/.bin/webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Manussakis/fifteen-puzzle-game.git"
+  },
+  "keywords": [
+    "game",
+    "javascript",
+    "mvc",
+    "puzzle"
+  ],
+  "author": "Gabriel Manussakis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Manussakis/fifteen-puzzle-game/issues"
+  },
+  "homepage": "https://github.com/Manussakis/fifteen-puzzle-game#readme"
+}
